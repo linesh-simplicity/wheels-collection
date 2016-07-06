@@ -7,3 +7,4 @@
 * [基本的版本控制](https://github.com/linesh-simplicity/wheels-collection/issues/4)（如git等实现）
 * [版本控制的工作流](https://github.com/linesh-simplicity/wheels-collection/issues/5)（如hub等实现）
 * [爬虫及框架](https://github.com/linesh-simplicity/wheels-collection/issues/7)
+* [正则表达式解析器](https://github.com/linesh-simplicity/wheels-collection/issues/8)
